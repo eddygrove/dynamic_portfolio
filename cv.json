@@ -1,0 +1,145 @@
+{
+  "professional history": [
+    {
+      "year": "2017 – 2021",
+      "role": "Head of Marketing & Communications, Industrial Designer",
+      "organisation": " – SNIGEL",
+      "text": "Marketing and communications as well as industrial design at SnigelDesign AB (snigel.se) Performed a complete rebranding and built a new website with e-commerce in Wordpress/WooCommerce.</br>Development of carrying systems, ballistic protection and clothes. Design, prototyping, field tests, production specifications, documentation."
+    },
+    {
+      "year": "2010 – 2017",
+      "role": "Owner",
+      "organisation": " – Fabel Interiors Arts & Crafts",
+      "text": "Entrepreneur in retail and interior design, Stockholm. Import and Nordic distribution from Pendleton Woolen Mills, USA. Running a brick and mortar store in Vasastaden, Stockholm."
+    },
+    {
+      "year": "2006 – 2010",
+      "role": "Senior Adviser",
+      "organisation": " – Perform Information Management AB",
+      "text": "Senior Adviser in Enterprise Content Management. Business development, process mapping, LEAN information management.\n\nCustomers: SSAB HQ, ITT-Flygt, Crane, GE Healthcare, Aleris, BTS - Business Training Systems, Foyen, Rödl & Partner, ABB."
+    },
+    {
+      "year": "1998 – 2006",
+      "role": "Curator, Head of Section",
+      "organisation": " – Nordiska museet",
+      "text": "Curator at national museum of cultural history. Head of the Picture agency and image archives, developing and marketing the business. A driving force in the launching and implentation of new techniques such as digital image processing and storage. Managing and digitisation of large image collections (+ 6 millions). Consulting national standardisation issues in the field of photography, digital images and metadata. Budgeting and managing 4 to 6 employees."
+    },
+    {
+      "year": "1996 – 1997",
+      "role": "Picture editor",
+      "organisation": " – Riksantikvarieämbetet",
+      "text": "Developing a picture agency at the Swedish National Heritage Board (Riksantikvarieämbetet, RA) in Stockholm. Planning and evaluation of a cooperation between RA, Historiska museet and Nordiska museet regarding a common agency and website. \\nDesign and development of a FileMaker CRM and ERP-system."
+    },
+    {
+      "year": "5/1992 – 8/1994",
+      "role": "Industrial designer",
+      "organisation": " – RLD AB",
+      "text": "Industrial designer; designing, prototyping and construction.Exhibition design. Ergonomics. Head of Computer Aided Design with 3D-solids construction and visualisation (raytracing). Customers such as Ericsson, Nokia, UBI, ICL, Fujitsu."
+    }
+  ],
+  "educational history": [
+    {
+      "exam": "2022-",
+      "organisation": "Chas Academy, Stockholm. Higher Vocational Education (YH)",
+      "text": "UX/UI-designer with Front-end competence."
+    },
+    {
+      "exam": "10/2002",
+      "organisation": "European Commission on Preservation and Access - Amsterdam",
+      "text": "Management of photographic collections; history of photography, preservation, digitisation, collection management."
+    },
+    {
+      "exam": "12/1997",
+      "organisation": "NTI Sverige - Stockholm",
+      "text": "Multimedia producer"
+    },
+    {
+      "exam": "5/1996",
+      "organisation": "Stockholm University",
+      "text": "3 years of studies. Psychology 30 högskolepoäng, Theoretical philosophy 60 högskolepoäng, History of Ideas 75 högskolepoäng"
+    },
+    {
+      "exam": "06/1991",
+      "organisation": " Konstfackskolan, Stockholm",
+      "text": "4 years. Master of Fine Arts in Industrial Design"
+    },
+    {
+      "exam": "12/1991",
+      "organisation": "Intergraph Sverige, Sollentuna",
+      "text": "Certified designer, Scholarship of 1991 for young industrial designers. CAD-education for UNIX-workstation software"
+    },
+    {
+      "exam": "5/1987",
+      "organisation": "Idun Lovén, Stockholm",
+      "text": "2 years of Fine arts education"
+    },
+    {
+      "exam": "6/1985",
+      "organisation": "Kulturama and Studio Lederman, Stockholm",
+      "text": "2 years of Acting school"
+    },
+    {
+      "exam": "6/1983",
+      "organisation": "Franska skolan and Södra Latin, Stockholm",
+      "text": "3 years of College, Liberal Arts degree"
+    }
+  ],
+  "IT skills": [
+    {
+      "tech": "General",
+      "level": "Have been working professionally with computers, db:s and programming since 1990; Unix, Windows, MacOS"
+    },
+    {
+      "tech": "Adobe Creative Suite; Photoshop, Illustrator, InDesign",
+      "level": " - very good"
+    },
+    {
+      "tech": "Adobe After Effects, Premiere Pro",
+      "level": " - good"
+    },
+    {
+      "tech": "Microsoft Office suite, Visio",
+      "level": " - very good"
+    },
+    {
+      "tech": "Sketchup",
+      "level": " - good"
+    },
+    {
+      "tech": "HTML, XML, CSS",
+      "level": " - good"
+    },
+    {
+      "tech": "JavaScript, PHP",
+      "level": " - basic"
+    },
+    {
+      "tech": "Several cms's - MODx, WordPress, WooCommerce",
+      "level": " - very good"
+    }
+  ],
+  "languages": [
+    {
+      "tech": "Swedish",
+      "level": " - native speaker, fluent in speech and writing"
+    },
+    {
+      "tech": "English",
+      "level": "  - fluent in speech and writing"
+    },
+    {
+      "tech": "French",
+      "level": " - good working knowledge in speech and writing"
+    },
+    {
+      "tech": "German",
+      "level": " - basic in speech and writing"
+    }
+  ],
+  "service": [
+    "Member of expert group for National standardisation for registration of photographies. Cooperation between i.a. Kungl. Biblioteket, Riksarkivet, Nationalmuseum and Nordiska museet for Sveriges Fotoråd.",
+    "Secretary at Board of BRF Flygaren. Project manager for reconstruction and penthouses with a 27 Msek budget. Responsible for architectural guidelines and preservation.",
+    "Managing the press area and artist transports at the Lollipop- and Fanclub festivals 1996-1998.",
+    "Member of Board of Marmorlunden BRF. Project manager for reconstruction and adviser on mid-century modern architecture"
+  ]
+}
