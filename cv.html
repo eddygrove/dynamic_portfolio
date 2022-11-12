@@ -9,28 +9,10 @@
       href="https://fonts.googleapis.com/css2?family=Lexend+Exa:wght@100;200;300;400;500;600;700;800;900&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Vollkorn:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
       rel="stylesheet"
     />
-
+    <script src="js/script.js" defer></script>
     <title>CV Björn Edlund</title>
   </head>
-
-  <!-- dynamic replacement below. move js ref to head-->
   <body>
-    <h1>My CV</h1>
-    <h3 class="status">
-      Please wait while i fetch CV data
-      <div class="lds-ellipsis">
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-      </div>
-    </h3>
-
-    <section class="myList"></section>
-    <script src="js/script.js" defer></script>
-  </body>
-
-  <!-- <body>
     <div class="container cv-container">
       <header class="header cv-header">
         <h1 class="header__h1 cv-header__h1">Björn Edlund</h1>
@@ -85,6 +67,20 @@
         </div>
       </figure>
       <main class="main cv-main" id="main-content">
+        <!-- dynamic replacement below. moved js ref to head-->
+        <h1>My CV</h1>
+        <h3 class="status">
+          Please wait while i fetch CV data
+          <div class="lds-ellipsis">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+          </div>
+        </h3>
+
+        <section class="myList"></section>
+        <!-- **** END of DYNAMIC CONTENT -->
         <section class="main-section cv-main-section">
           <h4 class="main__h4 cv-main-section__h4">PROFESSIONAL HISTORY</h4>
           <hr class="main-section__hr" />
@@ -231,17 +227,6 @@
           </p>
         </section>
       </main>
-
-      <!-- <img src="img/circ2.svg" alt="circles"> -->
-
-  <!-- <footer class="footer cv-footer">
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. At, facilis
-          totam. Sapiente maxime ea quam labore nihil recusandae, earum
-          inventore incidunt harum debitis totam quo illum ipsam, explicabo
-          possimus qui?
-        </p>
-      </footer> -->
-  <!-- </div>
-  </body> -->
+    </div>
+  </body>
 </html>

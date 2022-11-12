@@ -178,6 +178,7 @@ hr {
   display: flex;
   justify-content: flex-end;
   background-color: #ffe46b;
+  border-bottom: #d2bb56 solid 1px;
 }
 
 .navbar-menu,
@@ -385,6 +386,7 @@ hr {
 .portfolio-articles {
   display: flex;
   flex-direction: column;
+  padding-bottom: 55px;
   gap: 20px;
 }
 

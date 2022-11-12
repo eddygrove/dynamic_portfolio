@@ -1,4 +1,4 @@
-let url = "cv.json";
+const cvUrl = "cv.json";
 const myList = document.querySelector(".myList");
 const loadingStatus = document.querySelector(".status");
 const translation = {
@@ -8,20 +8,16 @@ const translation = {
 };
 
 async function getCVData() {
-  let response = await fetch(url);
+  let response = await fetch(cvUrl);
   if (response.ok) {
     // if HTTP-status is 200-299
     // get the response body (the method explained below)
     let cvData = await response.json();
-    //console.log(data)
+    //console.log(cvData)
     loadingStatus.innerText = "";
 
-    // data.employment.forEach((emp) => console.log(emp));
-    // data.education.forEach((eduText) => console.log(eduText));
-    // data.internships.forEach((intText) => console.log(intText));
-
     const cvKeys = Object.keys(cvData);
-    // console.log(cvKeys);
+    console.log("loggar cvKeys: ", cvKeys);
     cvKeys.forEach((cvKey) => {
       const myHeading = document.createElement("H2");
       myHeading.innerHTML = cvKey;
